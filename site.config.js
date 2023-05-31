@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log-jungkwangyoun",
-    description: "welcome to morethan-log!",
+    title: "initialkommit",
+    description: "git commit -m 'initial kommit'",
     theme: "dark", // ['light', 'dark', 'auto']
   },
 
